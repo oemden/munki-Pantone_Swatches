@@ -45,3 +45,7 @@ Munki "install check script".
 
 If a new version of Adobe Illustrator, 
 inDesign or Photoshop is installed, munki will run the install again.
+
+
+NB: Inspired from an old munkiCondition - you can use either method you see fit.
+
